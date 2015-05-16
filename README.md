@@ -1,2 +1,1 @@
-# DragonHack
-ZMAGA
+Iztok Pendulum - crush
